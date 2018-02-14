@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="article">
+        <item>Article One</item>
+        <item>Article Two</item>
+    </string-array>
+
+    <string-array name="News">
+        <item>Narendra Modi is the new Prime Minister of India</item>
+        <item>Donald Trump is the new President of the United States</item>
+
+    </string-array>
+</resources>
